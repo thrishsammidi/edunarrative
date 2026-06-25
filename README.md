@@ -1,7 +1,7 @@
 # edunarrative
 A data-driven exploration of education priorities across government communications and news media.
 
-ARTCLE: https://substack.com/home/post/p-203526156
+ARTICLE: https://substack.com/home/post/p-203526156
 
 ## Overview
 
