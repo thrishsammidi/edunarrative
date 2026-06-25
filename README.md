@@ -1,6 +1,8 @@
 # edunarrative
 A data-driven exploration of education priorities across government communications and news media.
 
+ARTCLE: https://substack.com/home/post/p-203526156
+
 ## Overview
 
 This project explores whether the Government of India and mainstream education news communicate education through similar narratives.
